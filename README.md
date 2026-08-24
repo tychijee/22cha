@@ -1,5 +1,10 @@
 # 22cha
 
+![Last Commit](https://img.shields.io/github/last-commit/tychijee/22cha)
+![Repo Size](https://img.shields.io/github/repo-size/tychijee/22cha)
+![Top Language](https://img.shields.io/github/languages/top/tychijee/22cha)
+![License](https://img.shields.io/badge/license-unspecified-lightgrey)
+
 특허 due-diligence 및 영문 아티클 한글 정리를 위한 작업 저장소입니다.
 
 ## 폴더 구조
