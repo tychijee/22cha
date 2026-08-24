@@ -21,7 +21,8 @@
   분석하여 청구항 구조, 선행기술 대비 차별점, 리스크를 구조화된 형식으로 정리하는 스킬.
   (`patent-due-diligence (1).skill` ZIP 아카이브를 md로 변환한 결과물)
 - `my _agent/작업지침서/특허 작업 지침서.md` — 특허 검토 작업 지침
-- `outputs/KR1020227016657_analysis.md` — 특허 분석 예시 결과물
+- `outputs/특허예시.pdf` — 분석 원본(KIPRIS 국내 특허·실용신안 상세 인쇄 화면, 공개 정보)
+- `outputs/KR1020227016657_analysis.md` — 위 원본에 대한 특허 분석 예시 결과물
 
 ### 2. 영문 아티클 한글 정리
 - `Inputs/01-mythos.md` — 처리 대상 영문 원문
@@ -33,4 +34,4 @@
 전체 작업 이력은 [`my _agent/docs/작업로그.md`](my%20_agent/docs/작업로그.md)에 기록됩니다.
 
 ## 참고
-- PDF 원본 파일(특허 샘플 등)은 `.gitignore`에 의해 저장소에서 제외되어 있습니다.
+- 그 외 PDF 원본 파일(`test.pdf` 등)은 `.gitignore`에 의해 저장소에서 제외되어 있습니다.
