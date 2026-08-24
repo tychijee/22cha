@@ -1,2 +1,5 @@
 *.pdf
 !outputs/특허예시.pdf
+
+# separated into https://github.com/tychijee/my-agent
+my_agent/
